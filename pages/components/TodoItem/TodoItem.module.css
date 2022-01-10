@@ -1,0 +1,15 @@
+.item {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.completed {
+  color: gray;
+}
+
+.btn {
+  margin-left: 0.2em;
+  cursor: pointer;
+}
